@@ -10,6 +10,7 @@ public class MainClass {
 			System.out.println("Your bank operations");
 			System.out.println("Welcome");
 			System.out.println("Test1");
+			System.out.println("Test Complete");
 		
 	}
 
