@@ -11,6 +11,7 @@ public class MainClass {
 			System.out.println("Welcome");
 			System.out.println("Test1");
 			System.out.println("Test Complete");
+			System.out.println("Test 2");
 		
 	}
 
